@@ -1,0 +1,30 @@
+{
+    "item": {
+        "name": "环上宠物",
+        "description": "一款点击类与集换类的游戏",
+        "preview": [
+            "fengmian.png",
+			"zhuye.png",
+            "gengduo.png",
+            "gonggao.png",
+            "paihangbang.png",
+            "zidingyichongwu.png",
+            "shezhi.png",
+            "guanyu.png"
+        ],
+        "icon": "icon.png",
+        "source_url": "https://github.com/lladlam/AstroBox-BandPet-free",
+        "author": [
+            {
+                "name": "lladlam",
+                "author_url": "https://github.com/lladlam"
+            }
+        ]
+    },
+    "downloads": {
+        "n67": {
+            "version": "0.4.2",
+            "file_name": "com.lladlam.bandpet.9pro.rpk"
+        }
+    }
+}
