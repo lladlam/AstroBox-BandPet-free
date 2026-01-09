@@ -3,14 +3,14 @@
         "name": "BandPet-Free",
         "description": "一款点击类与集换类的游戏",
         "preview": [
-            "fengmian.png",
-			"zhuye.png",
-            "gengduo.png",
-            "gonggao.png",
-            "paihangbang.png",
-            "zidingyichongwu.png",
-            "shezhi.png",
-            "guanyu.png"
+            "preview.png",
+			"preview1.png",
+            "preview2.png",
+            "preview3.png",
+            "preview4.png",
+            "preview5.png",
+            "preview6.png",
+            "preview7.png"
         ],
         "icon": "icon.png",
         "source_url": "https://github.com/lladlam/AstroBox-BandPet-free",
