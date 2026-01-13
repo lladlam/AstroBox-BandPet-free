@@ -1,7 +1,7 @@
 {
     "item": {
         "name": "BandPet-Free",
-        "description": "一款点击类与集换类的游戏",
+        "description": "一款点击类与集换类的游戏。当前为测试版，会有部分功能缺失以及少量Bug。现已支持Xiaomi Band 9 Pro,REDMI Watch 5&6",
         "preview": [
             "preview.png",
 			"preview1.png",
@@ -40,3 +40,4 @@
 		}
     }
 }
+
