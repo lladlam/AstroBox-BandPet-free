@@ -37,16 +37,17 @@
 		"p65": {
 			"version": "0.4.2",
 			"file_name": "com.lladlam.bandpet.rw.rpk"
-		}
+		},
 		"o62": {
 			"version": "0.4.2",
 			"file_name": "com.lladlam.bandpet.xws.rpk"
-		}
+		},
 		"o62m": {
 			"version": "0.4.2",
 			"file_name": "com.lladlam.bandpet.xws.rpk"
 		}
     }
 }
+
 
 
