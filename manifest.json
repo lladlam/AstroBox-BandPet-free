@@ -23,19 +23,19 @@
     },
     "downloads": {
         "n67": {
-            "version": "0.4.2",
+            "version": "0.4.3",
             "file_name": "com.lladlam.bandpet.9pro.rpk"
         },
 		"o65": {
-			"version": "0.4.2",
+			"version": "0.4.3",
 			"file_name": "com.lladlam.bandpet.rw.rpk"
 		},
 		"o65m": {
-			"version": "0.4.2",
+			"version": "0.4.3",
 			"file_name": "com.lladlam.bandpet.rw.rpk"
 		},
 		"p65": {
-			"version": "0.4.2",
+			"version": "0.4.3",
 			"file_name": "com.lladlam.bandpet.rw.rpk"
 		},
 		"o62": {
@@ -48,6 +48,7 @@
 		}
     }
 }
+
 
 
 
